@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Git Practice Assignment
+
+### Article: [These Doctors Are Using AI to Screen for Breast Cancer](https://www.wired.com/story/doctors-using-ai-screen-breast-cancer/#intcid=_mab-simulations-oo-bottom-recirc-2_755bc234-7b6a-4685-b0fd-86a09f694948_text2vec1)
+
+Almost everyday there is a new research paper showing the promises of using Artificial Intelligence especially Medicine. Since the pandemic began, almost *20,000* women have skipped routine screening for breast cancer. This is a problem because the statistics show that *5 in every 1,000 women* show signs of breast cancer. Several researchers at MIT are using machine learning algorithms, mainly neural networks, to analyze prior mammograms and train models to predict whether future patients have breast cancer. They are also trying to incorporate other important information into the models to determine the need for a follow-up screening. These algorithms are being tested in different medical universities and laboratories. It's more important than ever that we use the power of Artificial Intelligence to help people determine whether they have cancer and treat it properly and immediately. 
